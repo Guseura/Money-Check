@@ -1,0 +1,6 @@
+framework module Pods_MoneyCheck__macOS_ {
+  umbrella header "Pods-MoneyCheck (macOS)-umbrella.h"
+
+  export *
+  module * { export * }
+}

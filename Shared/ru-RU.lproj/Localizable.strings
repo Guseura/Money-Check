@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  moneycheck
+
+  Created by Kolya Libak on 18.01.21.
+  
+*/
+
+"SIGN_IN_WITH_APPLE" = "Войти с Apple";
+"SIGN_PAGE_TITLE" = "Легко управляйте своими расходами";

@@ -1,0 +1,37 @@
+/* 
+  Localizable.strings
+  MoneyCheck
+
+  Created by Kolya Libak on 25.01.21.
+  
+*/
+
+// MARK: - Errors
+
+"ERROR_ALL_FIELDS_REQUIRED" = "Все поля обязательны.";
+"ERROR_PASSWORDS_DO_NOT_MATCH" = "Пароли не совпадают. Пожалуйста, попробуйте еще раз.";
+
+// MARK: - Auth
+
+"SIGN_IN_WITH_APPLE" = "Войти с Apple";
+"SIGN_PAGE_TITLE" = "Легко управляйте своими расходами";
+"SIGN_PAGE_OR" = "или";
+
+"SIGN_IN_TITLE" = "Войти";
+"SIGN_IN_EMAIL_PLACEHOLDER" = "Email";
+"SIGN_IN_PASSWORD_PLACEHOLDER" = "Пароль";
+"SIGN_IN_FORGOT_PASSWORD" = "Забыли пароль?";
+"SIGN_IN_BUTTON" = "Войти";
+"SIGN_IN_NEW_ACCOUNT_TEXT" = "Еще нет аккаунта?";
+"SIGN_IN_SIGN_UP_BUTTON" = "Создайте сейчас!";
+
+"SIGN_UP_TITLE" = "Регистрация";
+"SIGN_UP_FIRSTNAME_PLACEHOLDER" = "Имя";
+"SIGN_UP_LASTNAME_PLACEHOLDER" = "Фамилия";
+"SIGN_UP_NEXT_BUTTON" = "Далее";
+"SIGN_UP_EMAIL_PLACEHOLDER" = "Email";
+"SIGN_UP_PASSWORD_PLACEHOLDER" = "Пароль";
+"SIGN_UP_CONFIRMPASSWORD_PLACEHOLDER" = "Повторите пароль";
+"SIGN_UP_BUTTON" = "Регистрация";
+"SIGN_UP_HAVE_ACCOUNT_TEXT" = "Уже есть аккаунт?";
+"SIGN_UP_SIGN_IN_BUTTON" = "Войти!";
